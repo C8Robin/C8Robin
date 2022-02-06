@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C8Robin
 - 👀 I’m interested in making my life easier
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently not doing much development wise, tinkering with CakePHP mostly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
